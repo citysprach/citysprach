@@ -1,3 +1,5 @@
+ADAPTED FROM HVASS LABS -- SOME RELEVANT INSTALLATION IS BELOW
+
 # TensorFlow Tutorials
 
 [Original repository on GitHub](https://github.com/Hvass-Labs/TensorFlow-Tutorials)
